@@ -1,0 +1,106 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/pngwing.com (4).png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "src/scripts/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": "assets/images/001_whirlpoolthinltbluesm_.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": 28,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "homeAnim"
+            },
+            {
+                "url": "src/components/homeAnim.js",
+                "type": "script",
+                "key": "homeAnim"
+            },
+            {
+                "url": "assets/animations/homeAnim.json",
+                "type": "animation",
+                "key": "homeAnim_1"
+            },
+            {
+                "url": "src/scripts/InputManager.js",
+                "type": "script",
+                "key": "InputManager"
+            },
+            {
+                "url": "assets/images/level 2.png",
+                "type": "image",
+                "key": "level 2"
+            },
+            {
+                "url": "assets/images/level1Img.png",
+                "type": "image",
+                "key": "level1Img"
+            },
+            {
+                "url": "src/Prefab/Level1Prefab.js",
+                "type": "script",
+                "key": "Level1Prefab"
+            },
+            {
+                "url": "assets/images/LEVEL3.png",
+                "type": "image",
+                "key": "Level3Map"
+            },
+            {
+                "url": "assets/images/partical1.png",
+                "type": "image",
+                "key": "partical1"
+            },
+            {
+                "url": "assets/images/pngwing.com.png",
+                "type": "image",
+                "key": "particle2"
+            },
+            {
+                "url": "assets/images/pngwing.com (1).png",
+                "type": "image",
+                "key": "particle3"
+            },
+            {
+                "url": "assets/images/Screenshot 2023-07-11 at 12.15.50 PM.png",
+                "type": "image",
+                "key": "Screenshot 2023-07-11 at 12.15.50 PM"
+            },
+            {
+                "url": "assets/images/smooth-blue-concrete-wall.jpg",
+                "type": "image",
+                "key": "smooth-blue-concrete-wall"
+            },
+            {
+                "url": "src/scripts/SocketManager.js",
+                "type": "script",
+                "key": "SocketManager"
+            },
+            {
+                "url": "src/scripts/SoundManager.js",
+                "type": "script",
+                "key": "SoundManager"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
